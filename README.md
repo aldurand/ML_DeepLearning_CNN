@@ -9,7 +9,7 @@ Course MDI341 - Advanced Machine Learning
 
 The goal of this challenge is to develop a binary classification system which tries to detect if an image contains something or not.
 
-It was first annonced to be a Mustache/No Mustache classification but after looking at some images, it seems the problem is more an Accessory/No Accessory issue. (More details on the Notebook)
+It was first annonced to be a Mustache/No Mustache classification but after looking at some images, it seems the problem is more an Accessory/No Accessory issue. (More details in the Notebook)
 
 -  The notebook *Challenge_ImageClassification_ADurand.ipynb* explains how I addressed this challenge with **Tensorflow**.
 
