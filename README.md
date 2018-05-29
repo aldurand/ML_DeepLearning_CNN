@@ -11,9 +11,9 @@ The goal of this challenge is to develop a binary classification system which tr
 
 It was first annonced to be a Mustache/No Mustache classification but after looking at some images, it seems the problem is more an Accessory/No Accessory issue. (More details on the Notebook)
 
--  The Notebook (Challenge_ImageClassification_ADurand.ipynb) explains how I addressed this challenge with **Tensorflow**.
+-  The notebook *Challenge_ImageClassification_ADurand.ipynb* explains how I addressed this challenge with **Tensorflow**.
 
-- Layers.py contains some useful functions for creating my CNN. (Those functions originally came from a Lab given by Stephane Gentric from IDEMIA, I reused them after some modifications for my needs).
+- *Layers.py* contains some useful functions for creating my CNN. (Those functions originally came from a Lab given by Stephane Gentric from IDEMIA, I reused them after some modifications for my needs).
 
 
 ==> I finally finished 7th on 57 students.
